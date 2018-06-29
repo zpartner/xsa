@@ -1,2 +1,2 @@
 # xsa
-XSA Repository for HDI design time objects
+XSA Repository for HANA development
